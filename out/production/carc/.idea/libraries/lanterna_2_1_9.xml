@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lanterna-2.1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/carc/org/academiadecodigo/bootcamp/lib/lanterna-2.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
